@@ -26,4 +26,7 @@ Using Centos 7
 - surprise... `10 // 3` gives you a floor
 - `3 ** 3` is 3 to the power of 3
 - `"ha" * 4` is hahahaha
+- `list[0:100:2]` the third variable is the step variable and in this case means every second value
+- `list[::-1]` this the way to reverse a list
+- `print("%s %s" % ("one", "two"))` will print "one two"
 
